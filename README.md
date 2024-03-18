@@ -1,8 +1,8 @@
-***# Facebook Bruteforcer***
+# Facebook Bruteforcer
 
 This Python script can be used to brute force login credentials for Facebook accounts.
 
-**## How to Use**
+## How to Use
 1. Clone the repository.
     ```bash
     git clone https://github.com/aftab0094/Facebook-BruteForce.git
